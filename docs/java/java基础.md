@@ -1,5 +1,5 @@
 相信大家在刚接触java语言的时候，就知道这是一门面向对象的语言。（学不好java的原因找到了，面向对象的语言，没有对象怎么学。。。）
-![NullpointerExceprtion](D:\各种代码\MyJava\docs\java\images\NullpointerExceprtion.png)
+![NullpointerExceprtion](http://qf5av92v7.hn-bkt.clouddn.com/MyJava/BasicNullpointerExceprtion.png)
 
 ## 那么究竟什么是面向对象呢？
 面向对象，Object Oriented Programming，简称为OOP。说到面向对象，不得不提一嘴面向过程。
